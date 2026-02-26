@@ -58,9 +58,13 @@ Observed instances of high sales but lower margins due to discounting
 ## 🛠 Tools Used
 
 Microsoft Excel
+
 Pivot Tables
+
 Structured References
+
 Data Visualization
+
 Slicers
 
 ## 📌 Outcome
