@@ -8,6 +8,7 @@ This project analyzes 10,000+ retail sales transactions to evaluate business per
 ## 📁 Dataset
 
 10,000 transaction records
+
 Includes: Order Date, Region, Category, Sales, Quantity, Discount, Profit, Segment
 
 ## ⚙️ Data Preparation
@@ -15,30 +16,43 @@ Includes: Order Date, Region, Category, Sales, Quantity, Discount, Profit, Segme
 Converted dataset into structured Excel table
 
 Created calculated columns:
+
 Order Year
+
 Order Month
+
 Shipping Days
+
 Profit Margin %
+
 Performed data validation and negative profit analysis
 
 ## 📈 Analysis Performed
 
 Regional Sales & Profit comparison
+
 Category-level profitability assessment
+
 Profit margin evaluation
+
 Segment-based performance filtering
 
 ## 📊 Dashboard Features
 
 KPI Cards (Sales, Profit, Orders, Margin)
+
 Sales by Region (Clustered Column Chart)
+
 Sales by Category (Clustered Column Chart)
+
 Interactive slicers (Segment, Year, Category)
 
 ## 🔑 Key Insights
 
 Identified top revenue-generating region
+
 Found category with highest profitability
+
 Observed instances of high sales but lower margins due to discounting
 
 ## 🛠 Tools Used
